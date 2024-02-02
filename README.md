@@ -43,10 +43,7 @@ You should see a welcome message and a prompt to enter your name.
 ## Beginning your adventure
 
 ![Welcome to Wonderland](./images/welcome.jpg)
-
-Sadly, it seems that no matter what name you enter, you won't be allowed into Wonderland.
-
-Let's take a look at the code in `index.ts` to understand why.
+the code in `index.ts` to understand why.
 
 👉 Read `index.ts` and look at the functions called in `console.ts`. Ignore the FIXME comments for now!
 
